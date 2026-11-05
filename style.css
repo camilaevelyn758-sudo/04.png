@@ -1,0 +1,24 @@
+.tabela-estoque {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+ 
+.tabela-estoque th {
+  background-color: #5529a8;
+  color: rgb(231, 229, 229);
+  text-align: left;
+  padding: 12px 17px;
+  font-weight: bold;
+}
+ 
+.tabela-estoque td {
+  padding: 16px;
+  background-color: rgb(250, 250, 250);
+  color: #000000;
+}
+ 
+.tabela-estoque .linha-zebra {
+  background-color: #133c6e;
+}
